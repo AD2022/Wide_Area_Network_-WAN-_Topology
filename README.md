@@ -1,0 +1,2 @@
+# Wide_Area_Network_-WAN-_Topology
+This project includes a WAN topology with more than 20 routers and 6 switches to be configured with the ISP's. The tasks performed in this project are; Configuring protocols like OSPF, ISIS, iBGP, eBGP, VLAN, VTP, MSTP, PPP, Port-Security and MD5 authentication on Cisco’s 2600 series routers and Catalyst 3750 switches.  Furthermore, configuring MPLS, IPsec tunnels, DMVPN and ensuring E-E connectivity of the WAN Network
